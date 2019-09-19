@@ -18,3 +18,15 @@ Flutter ofrece características incontables que nos dan beneficios y facilidades
 
 También tiene un alto rendimiento ya que sus apps funcionan a los  60fps lo que da mayor rendimiento y tiene animaciones muy fluidas y además de tener actualizaciones muy rápidas.
 
+# ¿Qué es Dart?
+es un lenguaje de programación de código abierto, desarrollado por Google. Fue revelado en la conferencia goto; en Aarhus, Dinamarca el 10 octubre de 2011. El objetivo de Dart no es reemplazar JavaScript como el principal lenguaje de programación web en los navegadores web, sino ofrecer una alternativa más moderna. El espíritu del lenguaje puede verse reflejado en las declaraciones de Lars Bak, ingeniero de software de Google, que define a Dart como un “lenguaje estructurado pero flexible para programación Web”.
+
+## Herramientas
+### * Chromium:
+Es el directorio donde se almacena una compilación especial del navegador web Chromium llamada Dartium porque incluye la máquina virtual de Dart (Dart VM). De este modo podrás ejecutar tus aplicaciones Dart nativas directamente en este navegador.
+
+### * Dart-sdk:
+Es el kit de desarrollo de software de Dart (SDK). Incluye todas las librerías de Dart como dart:core o dart:html y tiene herramientas de línea de comandos muy útiles como el compilador de Dart-to-JavaScript y la máquina virtual de Dart.
+
+### * Samples:
+Contiene varios ejemplos de aplicaciones Dart para aprender y profundizar con ejemplos de aplicaciones reales.
