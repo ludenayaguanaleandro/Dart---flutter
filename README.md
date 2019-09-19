@@ -15,5 +15,6 @@ Flutter ofrece características incontables que nos dan beneficios y facilidades
 # Flutter es bueno en :
 * Desarrollo ágil: con features como Hot reload, que te permite hacer cambios y ver las actualizaciones de manera instantánea.
 * Apps nativas:  con una misma base de código. A diferencia de otros frameworks donde la gran parte del código se comparte, en Flutter el 100% del código funciona para ambas plataformas.
+
 También tiene un alto rendimiento ya que sus apps funcionan al a 60fps lo que da mayor rendimiento y con animaciones muy fluidas y además de tener actualizaciones muy rápidas.
 
